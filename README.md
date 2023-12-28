@@ -22,12 +22,3 @@ Communication efficiency
 McMahan, H. B., Moore, E., Ramage, D., Hampson, S., & y Arcas, B. A. (2017). Communication-Efficient Learning of Deep Networks from Decentralized Data. In Proceedings of the 20th International Conference on Artificial Intelligence and Statistics (AISTATS).
 
 Dataset - [Kaggle](www.Kaggle.com)
-
-*
-  @article {beutel2020flower,
-  title={Flower: A Friendly Federated Learning Research Framework},
-  author={Beutel, Daniel J and Topal, Taner and Mathur, Akhil and Qiu, Xinchi and Fernandez-Marques, Javier and Gao, Yan and Sani, Lorenzo and Kwing, Hei Li and Parcollet, Titouan and Gusmão, Pedro PB de and Lane, Nicholas D},
-  journal={arXiv preprint arXiv:2007.14390},
-  year={2020}
-  }
-*
